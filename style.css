@@ -105,6 +105,7 @@ button{
     background-image: url("photos/pic-3.png");
 }
 .card4{
+    transform: translateY(-10px);
     background-image: url("photos/pic-4.png");
 }
 .card:hover{
